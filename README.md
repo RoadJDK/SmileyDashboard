@@ -6,7 +6,7 @@ You know, TCP is cool, so is coding.
 
 I am trying to make something cool (and maybe useful) with it.
 
-I don't care about CleanCode in my own projects. So don't expect that you can understand everything.
+**I don't care about CleanCode in my own projects. So don't expect that you can understand everything.**
 
 # How this will work?
 
@@ -21,7 +21,7 @@ I don't know if the method has a name or something, but it goes like this:
 * when I am stuck, I erase mostly
 * ...
 
-I think you got it.
+**I think you got it.**
 
 ## Versions
 I wanna do something like this:
@@ -54,4 +54,4 @@ https://github.com/RoadJDK/SmileyRuntime
 
 This Readme is WIP :^) 
 
-Keep smiling :^)
+**Keep smiling :^)**
