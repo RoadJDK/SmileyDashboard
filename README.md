@@ -38,7 +38,7 @@ I wanna do something like this:
 * Post-release fixes / features  1.1.0
 * Post-release fixes 1.1.1
 
-**CURRENT VERSION: Prototype 1**
+**CURRENT VERSION: Prototype 2**
 
 ## Links
 Here are the links to the Repositories:
