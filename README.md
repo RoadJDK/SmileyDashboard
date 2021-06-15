@@ -8,10 +8,11 @@ I am trying to make something cool (and maybe useful) with it.
 
 I don't care about CleanCode in my own projects. So don't expect that you can understand everything.
 
-## How this will work?
+# How this will work?
 
 I want to try a new learning method.
 
+## Procedure
 I don't know if the method has a name or something, but it goes like this:
 
 * make a crapy prototype
@@ -22,18 +23,34 @@ I don't know if the method has a name or something, but it goes like this:
 
 I think you got it.
 
+## Versions
 I wanna do something like this:
 
-* Prototype 1
-* Prototype 2
-* Prototype 3
-* Prototype ...
-* Pre-Alpha
-* Alpha
-* Beta
-* Release candidate	
-* Release
-* Post-release fixes
+* Prototype 1 YYwWWn
+* Prototype 2 YYwWWn
+* Prototype 3 YYwWWn
+* Prototype ... YYwWWn
+* Pre-Alpha 0.0.1pa
+* Alpha 0.1.0a
+* Beta  0.1.0b
+* Release candidate	1.0.0c
+* Release 1.0.0
+* Post-release fixes / features  1.1.0
+* Post-release fixes 1.1.1
+
+**CURRENT VERSION: Prototype 1**
+
+## Links
+Here are the links to the Repositories:
+
+### SmileyHost
+https://github.com/RoadJDK/SmileyHost
+
+### SmileyClient
+https://github.com/RoadJDK/SmileyClient
+
+### SmileyRuntime
+https://github.com/RoadJDK/SmileyRuntime
 
 This Readme is WIP :^) 
 
