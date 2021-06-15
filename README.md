@@ -26,10 +26,10 @@ I think you got it.
 ## Versions
 I wanna do something like this:
 
-* Prototype 1 MMwWWn
-* Prototype 2 MMwWWn
-* Prototype 3 MMwWWn
-* Prototype ... MMwWWn
+* Prototype 1 vMMwWWn
+* Prototype 2 vMMwWWn
+* Prototype 3 vMMwWWn
+* Prototype ... vMMwWWn
 * Pre-Alpha 0.0.1pa
 * Alpha 0.1.0a
 * Beta  0.1.0b
